@@ -1,0 +1,25 @@
+{
+  "id": "JS-01",
+  "nome": "João Silva",
+  "idade": 32,
+  "profissao": "Analista de Sistemas",
+  "renda_mensal": 5000.00,
+  "perfil_investidor": "moderado",
+  "patrimonio_total": 15000.00,
+  "metas": [
+    {
+      "meta": "Completar reserva de emergência",
+      "valor_alvo": 15000.00,
+      "valor_atual": 10000.00,
+      "prazo_final": "2026-06",
+      "prioridade": "Critica"
+    },
+    {
+      "meta": "Entrada do apartamento",
+      "valor_alvo": 50000.00,
+      "valor_atual": 0.00,
+      "prazo_final": "2027-12",
+      "prioridade": "Alta"
+    }
+  ]
+}

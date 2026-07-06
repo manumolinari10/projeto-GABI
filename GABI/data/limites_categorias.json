@@ -1,0 +1,14 @@
+{
+  "configuracoes": {
+    "moeda": "BRL",
+    "threshold_aviso_porcentagem": 0.80,
+    "threshold_critico_porcentagem": 0.95
+  },
+  "limites": {
+    "Alimentação": 1200.00,
+    "Lazer": 800.00,
+    "Transporte": 500.00,
+    "Assinaturas/Streaming": 150.00,
+    "Outros": 500.00
+  }
+}

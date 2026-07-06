@@ -1,0 +1,8 @@
+data,estabelecimento,categoria,valor,metodo_pagamento
+2026-03-01,Aluguel Imobiliaria,Moradia,2200.00,Debito
+2026-03-05,Supermercado BH,Alimentação,450.00,Cartao_Credito
+2026-03-10,Netflix,Assinaturas/Streaming,55.90,Recorrencia
+2026-03-15,Restaurante Sushi,Lazer,180.00,Cartao_Credito
+2026-03-20,Posto Shell,Transporte,250.00,Debito
+2026-03-22,iFood Jantar,Alimentação,120.00,Cartao_Credito
+2026-03-23,Cinema e Pipoca,Lazer,90.00,Cartao_Credito
